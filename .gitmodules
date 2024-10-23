@@ -1,3 +1,0 @@
-[submodule "fuzzer"]
-	path = fuzzer
-	url = https://github.com/uni-freiburg-debugging-course/ex1-SammyMcFly.git

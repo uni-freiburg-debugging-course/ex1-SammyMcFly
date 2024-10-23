@@ -1,15 +1,15 @@
 # Minimal parser 
 
-- Simple program to evaluate LISP-style SMT expressions
+Simple program to evaluate LISP-style SMT expressions
 
-- Usage: minimal_parser <FILE>
+Usage: minimal_parser <FILE>
 
-- Arguments:
+Arguments:
 -   <FILE>  File path to input file
 
-- Options:
--  -h, --help     Print help
--  -V, --version  Print version
+Options:
+-   -h, --help     Print help
+-   -V, --version  Print version
 
 ## Build instructions:
 -   Run: "cargo build" as usual for rust
